@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Chess Studio",
+  "description": "A luxury chess experience featuring smooth piece animations, tactical AI engine, tactical puzzles, game analysis, and custom audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
